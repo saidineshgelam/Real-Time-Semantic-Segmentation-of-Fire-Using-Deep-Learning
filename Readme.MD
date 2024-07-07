@@ -10,7 +10,7 @@ Our goal was to reproduce the experiment results and test the model on random Yo
 **Result 1**
 
 ![Result 2](output/video2-ezgif.com-video-to-gif-converter.gif)  
-**Result 2 - Random Video from YouTube**
+**Result 2 - Random CC TV Accident video *
 
 ## Model Architecture
 The encoder consists of a DCNN with 16 convolution layers and an ASPP module (Atrous Spatial Pyramid Pooling). The activation function is a combination of both ReLU and HardSwish. The Lion optimizer and Focal Loss are used.
